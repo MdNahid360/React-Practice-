@@ -1,0 +1,36 @@
+nav{
+    background: #1C2B35;
+    color: white!important;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.container{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    align-items:center;
+}
+.logo{
+    width: 94px;
+}
+.container> ul{
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+}
+.container>ul>li{
+    margin-right:14px;
+
+}
+.container>ul>li>a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px!important;
+    font-weight: 400!important;
+    transition: all 0.3s ease;
+}
+.container>ul>li>a:hover{
+    color: goldenrod;
+    transition: all 0.3s ease;
+}

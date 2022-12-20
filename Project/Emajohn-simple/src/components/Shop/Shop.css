@@ -1,0 +1,20 @@
+
+.product-container{
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+    background: rgb(240, 235, 235);
+
+}
+
+.products{
+    padding: 10px 120px;
+    background:white;
+}
+.product-card-box{
+    padding: 0px 15px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 12px;
+}

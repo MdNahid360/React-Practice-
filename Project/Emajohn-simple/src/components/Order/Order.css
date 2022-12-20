@@ -1,0 +1,22 @@
+.shop2-container{
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+    padding: 10px;
+    justify-content: center;
+}
+.products2{
+   width:500px;
+   height: 600px;
+   overflow-x: hidden;
+   overflow-y: scroll;
+
+}
+.cart2{
+    width: 300px;
+    height: 100%;
+    border-left: 1px solid black;
+    position: absolute;
+    right: 0;
+    padding: 10px;
+}
