@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Samsung",
+    "details": "See the Samsung phones and tablets"
+  },
+  {
+    "id": 2,
+    "categoryName": "ViVo",
+    "details": "See the ViVo phones and tablets"
+  },
+  {
+    "id": 3,
+    "categoryName": "Oppo",
+    "details": "See the Oppo phones and tablets"
+  },
+  {
+    "id": 4,
+    "categoryName": "Nokia",
+    "details": "See the Nokia phones and tablets"
+  },
+  {
+    "id": 5,
+    "categoryName": "Realme",
+    "details": "See the Realme phones and tablets"
+  },
+  {
+    "id": 6,
+    "categoryName": "Redmi",
+    "details": "See the Redmi phones and tablets"
+  }
+]
